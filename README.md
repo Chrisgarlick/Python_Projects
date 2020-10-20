@@ -6,6 +6,7 @@ Below is a list of projects I am currently working my way through. As I complete
 
   - Change Calculator - Change_calc.py
   - Guessing Game, Higher or Lower - Guessing_game.py
+  - Mean, Median and Mode - Mean_median_mode.py
 
 Thanks you for your time,
 Chris 
