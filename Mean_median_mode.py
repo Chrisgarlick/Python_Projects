@@ -13,6 +13,6 @@ amount = len(lst)
 median = lst[9]
 
 
-# Mode - most occuring number 
+# Mode - most occuring number - Without using the counter module
 mode = [[x, lst.count(x)] for x in set(lst)]
 
