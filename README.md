@@ -6,6 +6,7 @@ Below is a list of projects I am currently working my way through. As I complete
 
   - Change Calculator - Change_calc.py
   - Dice Rolling Simulator - Dice_simulator.py
+  - Fibonacci to Nth number - Fibonacci_to_N.py
   - Guessing Game, Higher or Lower - Guessing_game.py
   - Mad libs Generator - Mad_libs_gen.py
   - Mean, Median and Mode - Mean_median_mode.py
