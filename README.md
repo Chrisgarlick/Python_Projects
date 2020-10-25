@@ -10,6 +10,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Guessing Game, Higher or Lower - Guessing_game.py
   - Mad libs Generator - Mad_libs_gen.py
   - Mean, Median and Mode - Mean_median_mode.py
+  - Speed Phrase Typing Test - Speed_typing_test.py
   - Times Table - Times_table.py
 
 Thanks you for your time,
