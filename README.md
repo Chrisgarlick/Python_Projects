@@ -5,7 +5,7 @@ I am farely new to coding, any information to help my coding skills would be ext
 Below is a list of projects I am currently working my way through. As I complete projects I will add my code into the repository!
 
   - Change Calculator - Change_calc.py
-  - Currency_converter.py
+  - Currency converter - Currency_converter.py
   - Dice Rolling Simulator - Dice_simulator.py
   - Fibonacci to Nth number - Fibonacci_to_N.py
   - Guessing Game, Higher or Lower - Guessing_game.py
