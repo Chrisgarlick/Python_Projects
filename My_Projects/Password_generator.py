@@ -18,4 +18,5 @@ password *= 0
 # Generate a 12 character password and add to empty list
 while len(password) < 12:
     password.append(random.choices(uppercase)) or password.append(random.choices(lowercase)) or password.append(random.randint(0, 9))
-
+    
+print(password)
