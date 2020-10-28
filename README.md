@@ -13,6 +13,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Mean, Median and Mode - Mean_median_mode.py
   - Password Creator - Password_generator.py
   - Speed Phrase Typing Test - Speed_typing_test.py
+  - Speed Word Typing Test - Speed_word_typing.py
   - Times Table - Times_table.py
 
 Thanks you for your time,
