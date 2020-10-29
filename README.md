@@ -12,6 +12,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Mad libs Generator - Mad_libs_gen.py
   - Mean, Median and Mode - Mean_median_mode.py
   - Password Creator - Password_generator.py
+  - Rock, Paper, Scissors - R_P_S.py
   - Speed Phrase Typing Test - Speed_typing_test.py
   - Speed Word Typing Test - Speed_word_typing.py
   - Times Table - Times_table.py
