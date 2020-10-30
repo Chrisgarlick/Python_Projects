@@ -16,6 +16,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Speed Phrase Typing Test - Speed_typing_test.py
   - Speed Word Typing Test - Speed_word_typing.py
   - Times Table - Times_table.py
+  - Weight converter - Weight_converter.py
 
 Thanks you for your time,
 Chris 
