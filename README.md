@@ -11,6 +11,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Guessing Game, Higher or Lower - Guessing_game.py
   - Mad libs Generator - Mad_libs_gen.py
   - Mean, Median and Mode - Mean_median_mode.py
+  - Menu Calculator - Menu_calc.py
   - Password Creator - Password_generator.py
   - Rock, Paper, Scissors - R_P_S.py
   - Speed Phrase Typing Test - Speed_typing_test.py
