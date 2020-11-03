@@ -16,7 +16,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Password Creator - Password_generator.py
   - Rock, Paper, Scissors - R_P_S.py
   - Simple Story generator - Simple_Story_Generator.py
-  - Simple Calculator Guessing Game - Calc_guess.py
+  - Simple Calculator Guessing Game - Simple_Calc_guess.py
   - Speed Phrase Typing Test - Speed_typing_test.py
   - Speed Word Typing Test - Speed_word_typing.py
   - Times Table - Times_table.py
