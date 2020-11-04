@@ -6,6 +6,7 @@ Below is a list of projects I am currently working my way through. As I complete
 
   - Calculator - Calculator.py
   - Change Calculator - Change_calc.py
+  - Countdown timer - Countdown_timer.py
   - Currency converter - Currency_converter.py
   - Dice Rolling Simulator - Dice_simulator.py
   - Fibonacci to Nth number - Fibonacci_to_N.py
