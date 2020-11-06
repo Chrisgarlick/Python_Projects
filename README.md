@@ -21,6 +21,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Simple Calculator Guessing Game - Simple_Calc_guess.py
   - Speed Phrase Typing Test - Speed_typing_test.py
   - Speed Word Typing Test - Speed_word_typing.py
+  - Tic Tac Toe - Tic_tac_toe.py
   - Times Table - Times_table.py
   - Weight converter - Weight_converter.py
 
