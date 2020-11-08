@@ -15,6 +15,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Mad libs Generator - Mad_libs_gen.py
   - Mean, Median and Mode - Mean_median_mode.py
   - Menu Calculator - Menu_calc.py
+  - Number Match Game - Number_match_game.py
   - Password Creator - Password_generator.py
   - Rock, Paper, Scissors - R_P_S.py
   - Simple Story generator - Simple_Story_Generator.py
