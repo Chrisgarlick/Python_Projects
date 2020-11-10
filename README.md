@@ -10,6 +10,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Currency converter - Currency_converter.py
   - Dice Rolling Simulator - Dice_simulator.py
   - Fibonacci to Nth number - Fibonacci_to_N.py
+  - Football Leagues Max Points - Max_points.py
   - Guessing Game, Higher or Lower - Guessing_game.py
   - Length of Input - Length_of_Input.py
   - Mad libs Generator - Mad_libs_gen.py
