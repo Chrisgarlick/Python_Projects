@@ -18,6 +18,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Menu Calculator - Menu_calc.py
   - Number Match Game - Number_match_game.py
   - Password Creator - Password_generator.py
+  - Palindrome Checker - Palindrome_Checker.py
   - Rock, Paper, Scissors - R_P_S.py
   - Simple Story generator - Simple_Story_Generator.py
   - Simple Calculator Guessing Game - Simple_Calc_guess.py
