@@ -22,6 +22,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Rock, Paper, Scissors - R_P_S.py
   - Simple Story generator - Simple_Story_Generator.py
   - Simple Calculator Guessing Game - Simple_Calc_guess.py
+  - Simple Movie Picker - Pick_Movie.py
   - Speed Phrase Typing Test - Speed_typing_test.py
   - Speed Word Typing Test - Speed_word_typing.py
   - Text Editor Using Tkinter - Text_editor.py
