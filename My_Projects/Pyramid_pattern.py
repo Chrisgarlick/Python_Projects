@@ -1,6 +1,6 @@
 def pattern(n):
     '''
-    Creates a Pyramid Pattern through for loops
+    Creates a Pyramid Pattern using for loops
     '''
     k = 2 * n - 2
     for i in range(0, n):
