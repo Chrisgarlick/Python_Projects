@@ -121,3 +121,7 @@ while player_HP > 0 and comp_HP > 0:
             print(f"The computer now has {comp_HP} health and {comp_energy} energy")
             turn = name
     
+if player_HP <= 0:
+    print(f"Computer has won this round!")
+elif comp_HP <= 0:
+    print(f"{name} has won this round!")
