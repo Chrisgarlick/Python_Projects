@@ -36,6 +36,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Tic Tac Toe - Tic_tac_toe.py
   - Times Table - Times_table.py
   - Turn based Attacking game - Turn_Based_Game.py
+  - URL Shortener - URL_Shortener.py
   - War Card game Walkthrough - WAR.py
   - Weight converter - Weight_converter.py
 
