@@ -9,6 +9,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Cartoon Image Maker - Cartoon_Image.py
   - Change Calculator - Change_calc.py
   - Countdown timer - Countdown_timer.py
+  - Currency converter with GUI - CC_Tkinter.py
   - Currency converter - Currency_converter.py
   - Dice Rolling Simulator - Dice_simulator.py
   - Electric Cars Worldwide, Data Visualisation - Electric_Cars_WW.py
