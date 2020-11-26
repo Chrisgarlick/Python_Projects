@@ -33,6 +33,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Simple Calculator Guessing Game - Simple_Calc_guess.py
   - Simple Movie Picker - Pick_Movie.py
   - Simple Prime nums - Simple_Prime_nums.py
+  - Simple Translator - Simple_Translator.py
   - Speed Phrase Typing Test - Speed_typing_test.py
   - Speed Word Typing Test - Speed_word_typing.py
   - Spelling Checker - Spell_check.py
