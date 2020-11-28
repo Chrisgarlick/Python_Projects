@@ -25,6 +25,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Menu Calculator - Menu_calc.py
   - Number Match Game - Number_match_game.py
   - Password Creator - Password_generator.py
+  - Password Generator with GUI - Password_gen_GUI.py
   - Palindrome Checker - Palindrome_Checker.py
   - Pyramid Pattern - Pyramid_pattern.py
   - Pyramid Pattern Reversed - Pyramid_rev_pattern.py
