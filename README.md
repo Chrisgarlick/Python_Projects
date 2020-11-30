@@ -9,6 +9,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Calculator - Calculator.py
   - Cartoon Image Maker - Cartoon_Image.py
   - Change Calculator - Change_calc.py
+  - Contact Book - Contact_Book.py
   - Count numbers in list - Count_num_in_list.py
   - Countdown timer - Countdown_timer.py
   - Currency converter with GUI - CC_Tkinter.py
