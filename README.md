@@ -15,6 +15,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Currency converter with GUI - CC_Tkinter.py
   - Currency converter - Currency_converter.py
   - Dice Rolling Simulator - Dice_simulator.py
+  - Describing Cities with functions - Describing_cities.py
   - Electric Cars Worldwide, Data Visualisation - Electric_Cars_WW.py
   - Fibonacci to Nth number - Fibonacci_to_N.py
   - Football Leagues Max Points - Max_points.py
