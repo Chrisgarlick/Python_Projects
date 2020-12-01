@@ -8,7 +8,7 @@ guess_count = 0
 
 # While condition, user guesses, guess_count added to, output cleared
 while not correct:
-    guess = input("Please choose a number between 1-100")
+    guess = input("Please choose a number between 1-100: ")
 
     guess_count += 1
     
