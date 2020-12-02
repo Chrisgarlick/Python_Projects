@@ -33,6 +33,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Pyramid Pattern - Pyramid_pattern.py
   - Pyramid Pattern Reversed - Pyramid_rev_pattern.py
   - Odd, Even, Divisible by 5 - Odd_Even_5.py
+  - QR Code Generator - QR_Code.py
   - Rock, Paper, Scissors - R_P_S.py
   - Simple Story generator - Simple_Story_Generator.py
   - Simple Calculator Guessing Game - Simple_Calc_guess.py
