@@ -27,6 +27,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Mean, Median and Mode - Mean_median_mode.py
   - Menu Calculator - Menu_calc.py
   - Number Match Game - Number_match_game.py
+  - Number Generator with Gui - Number_gen_gui.py
   - Password Creator - Password_generator.py
   - Password Generator with GUI - Password_gen_GUI.py
   - Palindrome Checker - Palindrome_Checker.py
