@@ -32,6 +32,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Password Creator - Password_generator.py
   - Password Generator with GUI - Password_generator_GUI.py
   - Palindrome Checker - Palindrome_Checker.py
+  - Pretty Table with Footballers - Prettytable_football.py
   - Pyramid Pattern - Pyramid_pattern.py
   - Pyramid Pattern Reversed - Pyramid_rev_pattern.py
   - Odd, Even, Divisible by 5 - Odd_Even_5.py
