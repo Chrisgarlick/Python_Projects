@@ -10,6 +10,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Calculator - Calculator.py
   - Cartoon Image Maker - Cartoon_Image.py
   - Change Calculator - Change_calc.py
+  - Circle of Colours using Turtle - Circle_of_colours.py
   - Contact Book - Contact_Book.py
   - Count numbers in list - Count_num_in_list.py
   - Countdown timer - Countdown_timer.py
