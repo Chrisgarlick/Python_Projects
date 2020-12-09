@@ -41,6 +41,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Odd, Even, Divisible by 5 - Odd_Even_5.py
   - QR Code Generator - QR_Code.py
   - Rock, Paper, Scissors - R_P_S.py
+  - Rolling Dice Visualisation - Two_sided_Dice_Visualisation.py
   - Simple Story generator - Simple_Story_Generator.py
   - Simple Calculator Guessing Game - Simple_Calc_guess.py
   - Simple Movie Picker - Pick_Movie.py
