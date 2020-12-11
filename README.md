@@ -16,6 +16,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Countdown timer - Countdown_timer.py
   - Currency converter with GUI - CC_Tkinter.py
   - Currency converter - Currency_converter.py
+  - Current Date and Time - Date_Time.py
   - Dice Rolling Simulator - Dice_simulator.py
   - Describing Cities with functions - Describing_cities.py
   - Electric Cars Worldwide, Data Visualisation - Electric_Cars_WW.py
