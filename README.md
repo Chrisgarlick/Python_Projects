@@ -6,7 +6,7 @@ Below is a list of projects I am currently working my way through. As I complete
 
   - Adding numbers using User Input - Adding_Users_nums.py
   - Bubble Sort Algorithm - Bubble_sort.py
-  - Calculator with GUI - Calc_tkinter.py
+  - Calculator with GUI - Calc_Tkinter.py
   - Calculator - Calculator.py
   - Cartoon Image Maker - Cartoon_Image.py
   - Change Calculator - Change_calc.py
