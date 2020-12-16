@@ -61,6 +61,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - URL Shortener - URL_Shortener.py
   - Vowel Counter - Vowel_count.py
   - War Card game Walkthrough - WAR.py
+  - Wikipedia Search - Wikipedia.py
   - Weight converter - Weight_converter.py
 
 Thanks you for your time,
