@@ -57,6 +57,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Text Editor Using Tkinter - Text_editor.py
   - Tic Tac Toe - Tic_tac_toe.py
   - Times Table - Times_table.py
+  - Timing Counter from 19th October - Timing_counter.py
   - Turn based Attacking game - Turn_Based_Game.py
   - URL Shortener - URL_Shortener.py
   - Vowel Counter - Vowel_count.py
