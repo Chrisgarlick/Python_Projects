@@ -1,7 +1,7 @@
 contact = {}
 
 finish = "\nPlease enter a contact"
-finish += "\nType 'quit' to finish"
+finish += "\nType 'quit' to Finish"
 
 while finish != 'quit':
     name = input("Please enter a name: ")
