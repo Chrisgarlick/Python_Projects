@@ -1,11 +1,27 @@
-# How much money does user have?
-money = float(input("Please enter how much money you have: "))
+def intake():
+    money = float(input("Please enter how much money you have: "))
+    return money
 
-# Total amount of money subtracted
-cost = float(input("Please enter how much you are being charged: "))
-money_left = money - cost
-new_money = round(money_left, 2)
+def moneyout():
+    cost = float(input("Please enter how much the item cost: "))
+    return cost
 
-# User's money - total = change
-print("Calculating...")
-print(f"You have £{new_money} left over!")
+def replay():
+    replay = input("Would you like to calculate your change? Press 'q' to quit: ")
+    if replay == 'q':
+        return False
+    else:
+        return True
+
+redo = replay()
+
+while redo:
+    money_in = intake()
+    money_out = moneyout()
+    money_left = money_in - money_out
+    new_money = round(money_left, 2)
+    print("Calculating...")
+    print(f"You have £{new_money} left!")
+    redo = replay()
+
+    
