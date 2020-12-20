@@ -33,6 +33,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Magic Eight Ball - Magic_8_ball.py
   - Mean, Median and Mode - Mean_median_mode.py
   - Menu Calculator - Menu_calc.py
+  - Movie Chooser, with user input - Movie_Chooser.py
   - Movie Ticket Prices, using a While loop, a function and a class - Movie_tickets.py
   - Number Match Game - Number_match_game.py
   - Number Generator with Gui - Number_gen_gui.py
