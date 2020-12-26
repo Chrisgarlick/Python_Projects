@@ -21,6 +21,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Dice Rolling Simulator - Dice_simulator.py
   - Describing Cities with functions - Describing_cities.py
   - Electric Cars Worldwide, Data Visualisation - Electric_Cars_WW.py
+  - Encryption - Encryption.py
   - Fibonacci to Nth number - Fibonacci_to_N.py
   - Finding Factors of a Number - Factors_of_num.py
   - Football Leagues Max Points - Max_points.py
