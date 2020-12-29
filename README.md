@@ -47,6 +47,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Pyramid Pattern Reversed - Pyramid_rev_pattern.py
   - Odd, Even, Divisible by 5 - Odd_Even_5.py
   - QR Code Generator - QR_Code.py
+  - Restaurant Information using OOP - Restaurants.py
   - Rock, Paper, Scissors - R_P_S.py
   - Rolling Dice Visualisation - Two_sided_Dice_Visualisation.py
   - Simple Story generator - Simple_Story_Generator.py
