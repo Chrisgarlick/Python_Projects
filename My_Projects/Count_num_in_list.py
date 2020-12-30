@@ -1,7 +1,7 @@
 def count(lst, x):
     """
-    Iterates through a list, if a number is equals to the number to be
-    checked the count increases
+    Iterates through a list, if a number is equal to the number that is
+    checked, the count increases
     """
     count = 0
     for num in lst:
