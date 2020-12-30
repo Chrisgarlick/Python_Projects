@@ -11,7 +11,7 @@ def fib(n):
             fib_seq.append(a)
             a, b = b, a+b
     except:
-        pass
+        print("Please enter a number...")
     else:
         return fib_seq
 
