@@ -2,8 +2,7 @@
 ##### Movie tickets using while loop
 
 
-prompt = "\nHow old are you?"
-prompt += "\nType 'quit' to quit: "
+prompt = "\nHow old are you? Type 'quit' to quit: "
 
 age = int(input(prompt))
 
