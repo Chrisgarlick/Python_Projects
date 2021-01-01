@@ -9,7 +9,7 @@ def fib(n):
     try:
         for i in range(n):
             fib_seq.append(a)
-            a, b = b, a+b
+            a, b = b, a + b
     except:
         print("Please enter a number...")
     else:
