@@ -1,7 +1,7 @@
 import random
 from IPython.display import clear_output
 
-# Random num generated, guess count and While True conditional
+# Random num generated, guess count and while True conditional
 correct = False
 number = random.randint(1, 100)
 guess_count = 0
