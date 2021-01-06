@@ -1,3 +1,5 @@
+
+
 def numberOne():
     num1 = int(input("Please enter a number: "))
     return num1
@@ -46,13 +48,14 @@ def divide(num1, num2):
 while retry():
     num1 = numberOne()
     num2 = numberTwo()
-    if operator() == 1:
+    oper = operator()
+    if oper == 1:
         add(num1, num2)
-    elif operator() == 2:
+    elif oper == 2:
         subtract(num1, num2)
-    elif operator() == 3:
+    elif oper == 3:
         multiply(num1, num2)
-    elif operator() == 4:
+    elif oper == 4:
         divide(num1, num2)
     else:
         print("Please ensure you have inputted correct numbers and operator")
