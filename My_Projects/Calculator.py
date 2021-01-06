@@ -1,5 +1,3 @@
-
-
 def numberOne():
     num1 = int(input("Please enter a number: "))
     return num1
