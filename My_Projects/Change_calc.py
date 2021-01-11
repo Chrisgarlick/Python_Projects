@@ -21,7 +21,7 @@ while redo:
     money_left = money_in - money_out
     new_money = round(money_left, 2)
     print("Calculating...")
-    print(f"You have £{new_money} left!")
+    print(f"You have £{new_money} left.")
     redo = replay()
 
     
