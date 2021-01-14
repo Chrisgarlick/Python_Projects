@@ -29,6 +29,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Google Trends Programming Languages - Google_trends.py
   - Growth of Python Data Visualisation - Growth_of_Python_Visualisation.py
   - Guessing Game, Higher or Lower - Guessing_game.py
+  - Hangman - Hangman.py
   - IG follower count - IG_Follower_count.py
   - Leap Year - Leap_year.py
   - Length of Input - Length_of_Input.py
