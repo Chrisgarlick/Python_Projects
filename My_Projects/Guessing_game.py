@@ -1,26 +1,38 @@
 import random
-from IPython.display import clear_output
 
-# Random num generated, guess count and while True conditional
-correct = False
-number = random.randint(1, 100)
+class Game():
+    def __init__(self, attempt, number, guess_count):
+        self.attempt = attempt
+        self.number = number
+        self.guess_count = guess_count
+
+    def guess(self):
+        if self.attempt == self.number:
+            print(f"Success! This took {self.guess_count} guesses!")
+            game_on = False
+        elif self.attempt > self.number:
+            print(f"Your guess {self.attempt} is too big!")
+        elif self.attempt < self.number:
+            print(f"Your guess {self.attempt} is too small!")
+        else: 
+            print("Please enter a valid number")
+
+def start():
+    ready = input("Are you ready? Enter 'quit' to finish: ")
+    if ready == 'quit':
+        return False
+    else:
+        return True
+
+game_on = start()
+target = random.randint(1, 100)
 guess_count = 0
 
-# While condition, user guesses, guess_count added to, output cleared
-while not correct:
-    guess = input("Please choose a number between 1-100: ")
-
-    guess_count += 1
-    
-    clear_output()
-
-# if correct - print how many guesses it took
-    if int(guess) == number:
-        print(f"You are successful, this took {guess_count} number of guesses!")
+while game_on:
+    num = int(input("Please enter a number between 1-100: "))
+    guessing = Game(num, target, guess_count)
+    guessing.guess()
+    if num == target:
         break
-# else if higher than number, say too high
-    elif int(guess)> number:
-        print("Your guess is too big!")
-# else if lower than number, say too low
-    elif int(guess) < number:
-        print("Your guess is too small!")
+    else:
+        guess_count += 1
