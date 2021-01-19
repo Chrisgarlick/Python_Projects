@@ -1,6 +1,6 @@
 # My workings for Python Projects
 
-I am farely new to coding, any information to help my coding skills would be extremely beneficial!
+I am farely new to coding, any information to help my coding skills would be extremely beneficial and appreciated!
 
 Below is a list of projects I am currently working my way through. As I complete projects I will add my code into the repository!
 
