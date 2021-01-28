@@ -1,6 +1,6 @@
 import time
 
-t = input("Please enter how long would you like to start a timer for in seconds: ")
+time = input("Please enter how long would you like to start a timer for in seconds: ")
 
 def countdown(timer):
     while timer > 0:
@@ -9,10 +9,10 @@ def countdown(timer):
         time.sleep(1)
     print("You have run out of time!")
     
-while not t.isdigit():
+while not time.isdigit():
     print("Please enter a valid integer to countdown from: ")
-    t = input("Please enter how long would you like to start a timer for in seconds: ")
-timer = int(t)
+    time = input("Please enter how long would you like to start a timer for in seconds: ")
+timer = int(time)
     
     
 countdown(timer)
