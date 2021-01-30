@@ -27,6 +27,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Fibonacci to Nth number - Fibonacci_to_N.py
   - Finding Factors of a Number - Factors_of_num.py
   - Football Leagues Max Points - Max_points.py
+  - Football Transfers - Football_transfers.py
   - Google Trends Programming Languages - Google_trends.py
   - Growth of Python Data Visualisation - Growth_of_Python_Visualisation.py
   - Guessing Game, Higher or Lower - Guessing_game.py
