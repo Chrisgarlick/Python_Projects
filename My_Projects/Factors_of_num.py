@@ -7,6 +7,13 @@ def print_factors(x):
         if x % i == 0:
             print(i)
             
-num = int(input("Enter a number to find factors for: "))
-
-print_factors(num)
+def retry():
+    ready = input("Would you like to start? Type 'quit' to end: ")
+    if ready == 'quit':
+        return False
+    else:
+        return True
+    
+while retry():
+    num = int(input("Enter a number to find factors for: "))
+    print_factors(num)
