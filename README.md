@@ -46,6 +46,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Password Creator - Password_generator.py
   - Password Generator with GUI - Password_generator_GUI.py
   - Palindrome Checker - Palindrome_Checker.py
+  - Pie Charts - Pie_Charts.py
   - Pretty Table with Footballers - Prettytable_football.py
   - Pong - Pong.py
   - Pyramid Pattern - Pyramid_pattern.py
