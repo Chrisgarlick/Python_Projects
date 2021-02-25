@@ -1,3 +1,12 @@
+# TURN BASED GAME
+# YOU CAN CHOOSE UP TO 4 DIFFERENT CLASSES.
+# CLASS 1 - SPELLS
+# CLASS 2 - MELEE
+# CLASS 3 - MELEE + HEALER
+# CLASS 4 - HEALER
+
+# THERE ARE MOBS TO KILL. 
+
 import random
 
 player_HP = 100
@@ -50,6 +59,12 @@ def first_go():
     else:
         return name
 
+
+
+ready = input("Are you ready to play? Y/N")
+name = input("Please enter your name: ")
+turn = first_go()
+
 player = Player()
 comp = Player2()
 
@@ -58,11 +73,6 @@ comp_special_attack = comp.spec_attack()
 comp_healer = comp.heal()
 
 comp_abilities = [comp_attack_normal, comp_special_attack]
-
-ready = input("Are you ready to play? Y/N")
-name = input("Please enter your name: ")
-turn = first_go()
-
 
 # While player 1 and player 2 HP's are over 0:
 while player_HP > 0 and comp_HP > 0:
