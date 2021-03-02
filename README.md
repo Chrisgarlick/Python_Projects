@@ -8,6 +8,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Barcode Generator - Barcode_Gen.py
   - BMI Calculator - BMI_Calc.py
   - Bubble Sort Algorithm - Bubble_sort.py
+  - Calendar with GUI - Calendar.py
   - Calculator with GUI - Calc_Tkinter.py
   - Calculator - Calculator.py
   - Cartoon Image Maker - Cartoon_Image.py
