@@ -4,7 +4,7 @@ I am farely new to coding, any information to help my coding skills would be ext
 
 Below is a list of projects I am currently working my way through. As I complete projects I will add my code into the repository!
 
-  - Adding numbers with User Input - Adding_Users_nums.py
+  - Adding numbers using User Input - Adding_Users_nums.py
   - Barcode Generator - Barcode_Gen.py
   - BMI Calculator - BMI_Calc.py
   - Bubble Sort Algorithm - Bubble_sort.py
