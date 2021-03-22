@@ -36,6 +36,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - IG follower count - IG_Follower_count.py
   - Leap Year - Leap_year.py
   - Length of Input - Length_of_Input.py
+  - Linear Search Algorithm - Linear_search_algorithm.py
   - Mad libs Generator - Mad_libs_gen.py
   - Magic Eight Ball - Magic_8_ball.py
   - Mean, Median and Mode - Mean_median_mode.py
