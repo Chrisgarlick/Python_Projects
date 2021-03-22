@@ -6,6 +6,7 @@ Below is a list of projects I am currently working my way through. As I complete
 
   - Adding numbers using User Input - Adding_Users_nums.py
   - Barcode Generator - Barcode_Gen.py
+  - Binary Search Algorithm - Binary_Search_Algorithm.py
   - BMI Calculator - BMI_Calc.py
   - Bubble Sort Algorithm - Bubble_sort.py
   - Calendar with GUI - Calendar.py
