@@ -52,6 +52,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Palindrome Checker - Palindrome_Checker.py
   - Pie Charts - Pie_Charts.py
   - Pretty Table with Footballers - Prettytable_football.py
+  - Progress Bar Tkinter - Progress_Bar.py
   - Pong - Pong.py
   - Pyramid Pattern - Pyramid_pattern.py
   - Pyramid Pattern Reversed - Pyramid_rev_pattern.py
