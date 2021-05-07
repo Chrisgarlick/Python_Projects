@@ -6,6 +6,7 @@ Below is a list of projects I am currently working my way through. As I complete
 
   - Adding numbers using User Input - Adding_Users_nums.py
   - Barcode Generator - Barcode_Gen.py
+  - Banking System - Banking_system.py
   - Binary Search Algorithm - Binary_Search_Algorithm.py
   - Binary Search Algorithm, Recursive - Recursive_binary_search.py
   - BMI Calculator - BMI_Calc.py
