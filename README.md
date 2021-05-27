@@ -71,6 +71,7 @@ Below is a list of projects I am currently working my way through. As I complete
   - Speed Phrase Typing Test - Speed_typing_test.py
   - Speed Word Typing Test - Speed_word_typing.py
   - Spelling Checker - Spell_check.py
+  - Stopwatch Tkinter - Stopwatch_GUI.py
   - Temperature Converter - Temp_Converter.py
   - Text Editor Using Tkinter - Text_editor.py
   - Tic Tac Toe - Tic_tac_toe.py
