@@ -1,8 +1,6 @@
 # My workings for Python Projects
 
-I am farely new to coding, any information to help my coding skills would be extremely beneficial and appreciated!
-
-Below is a list of projects I am currently working my way through. As I complete projects I will add my code into the repository!
+After a year of teaching myself how to code, I have been keeping this repository as a way to look back at where I have come from. Lot's of different libraries are used to achieve some of these scripts below, but if you are looking for more Web Development projects, please see my other repositories, including my <a href="https://github.com/Chrisgarlick/30DaysOfCSS">Front End projects</a>
 
 # Algorithms
   - Binary Search Algorithm - Binary_Search_Algorithm.py
